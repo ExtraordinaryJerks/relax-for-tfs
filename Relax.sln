@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relax.Model", "Relax.Model\Relax.Model.csproj", "{A20AB317-9AAB-4C79-83B4-37E92CD18955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relax", "Relax\Relax.csproj", "{41F35955-C164-4216-A48F-55A5955EA061}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Relax1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x86 = DVD-5|x86
+		Production|Any CPU = Production|Any CPU
+		Production|x86 = Production|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x86 = SingleImage|x86
+		Test|Any CPU = Test|Any CPU
+		Test|x86 = Test|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.CD_ROM|x86.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.DVD-5|x86.ActiveCfg = Debug|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Production|Any CPU.Build.0 = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Production|x86.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Release|x86.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.SingleImage|x86.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Test|Any CPU.Build.0 = Release|Any CPU
+		{A20AB317-9AAB-4C79-83B4-37E92CD18955}.Test|x86.ActiveCfg = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.CD_ROM|x86.ActiveCfg = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.CD_ROM|x86.Build.0 = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Debug|x86.ActiveCfg = Debug|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Debug|x86.Build.0 = Debug|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.DVD-5|x86.ActiveCfg = Debug|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.DVD-5|x86.Build.0 = Debug|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Production|Any CPU.Build.0 = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Production|x86.ActiveCfg = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Production|x86.Build.0 = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Release|x86.ActiveCfg = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Release|x86.Build.0 = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.SingleImage|x86.ActiveCfg = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.SingleImage|x86.Build.0 = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Test|Any CPU.Build.0 = Release|Any CPU
+		{41F35955-C164-4216-A48F-55A5955EA061}.Test|x86.ActiveCfg = Release|x86
+		{41F35955-C164-4216-A48F-55A5955EA061}.Test|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
