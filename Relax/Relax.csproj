@@ -171,7 +171,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config.cs" />
-    <Compile Include="Certificate_old.cs" />
     <Compile Include="Firewall.cs" />
     <Compile Include="Mappers\RelaxBuildDefinitionMapper.cs" />
     <Compile Include="Mappers\RelaxTeamProjectCollectionMapper.cs" />
