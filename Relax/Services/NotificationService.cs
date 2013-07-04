@@ -14,8 +14,7 @@ namespace Relax.Services
             var client = new WebClient();
             client.Headers.Add("Content-Type", "application/json");
             client.UploadDataAsync(new Uri(String.Format("{0}/{1}/{2}", ConfigurationManager.AppSettings["RelaxForTfs.WebServiceApi.BaseUrl"],"api", "messaging")), 
-                                   "POST", 
-                                   System.Text.Encoding.ASCII.GetBytes(JsonConvert.SerializeObject(relaxNotificationMessage)));
+                                   "POST", System.Text.Encoding.ASCII.GetBytes(JsonConvert.SerializeObject(relaxNotificationMessage)));
 
         }
     }
